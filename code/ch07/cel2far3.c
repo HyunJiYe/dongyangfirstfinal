@@ -1,5 +1,6 @@
 /* 20200824 현지예
-   file: cel2far3.c */
+   file : cel2far3.c */
+
 #include <stdio.h>
 
 int main(void)
