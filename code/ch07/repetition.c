@@ -1,5 +1,6 @@
 /* 20200824 현지예
    file: repetition.c */
+
 #include <stdio.h>
 
 int main(void)
